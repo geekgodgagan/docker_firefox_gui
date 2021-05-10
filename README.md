@@ -10,3 +10,5 @@ This Docker Image is for Launching Docker container which contains the firefox G
   ```
   docker container run -it --env="DISPLAY" --net=host geekgodgagan/docker_firefox_gui:v1
   ```
+- Then finally you get like this
+<img height = "250" width = "600" src="https://github.com/geekgodgagan/docker_firefox_gui/blob/main/firefox.jpg"/>
